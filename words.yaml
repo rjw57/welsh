@@ -1,0 +1,1000 @@
+- definition: Swansea
+  term: Abertawe
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: Cardiff
+  term: Caerdydd
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: Welsh
+  term: Cymraeg
+  type: fem. noun / enw benywaidd
+  unit: 1
+- definition: Wales
+  term: Cymru
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: Ireland
+  term: Iwerddon
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: England
+  term: Lloegr
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: London
+  term: Llundain
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: Christmas
+  term: Nadolig
+  type: masc. noun / enw gwrywaidd
+  unit: 4
+- definition: Scotland
+  term: Yr Alban
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: and
+  term: a
+  type: other / arall
+  unit: 1
+- definition: to tell the truth
+  term: a deud y gwir
+  type: other / arall
+  unit: 4
+- definition: home
+  term: adre
+  type: other / arall
+  unit: 4
+- definition: museum(s)
+  term: amgueddfa (amgueddfeydd)
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: often
+  term: aml
+  type: ansoddair / adjective
+  unit: 4
+- definition: time
+  term: amser
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: 'on'
+  term: ar
+  type: other / arall
+  unit: 2
+- definition: other, else
+  term: arall
+  type: other / arall
+  unit: 3
+- definition: to stay, to wait
+  term: aros
+  type: verb / berf
+  unit: 4
+- definition: plane(s)
+  term: awyren(nau)
+  type: fem. noun / enw benywaidd
+  unit: 6
+- definition: small
+  term: bach
+  type: ansoddair / adjective
+  unit: 4
+- definition: bank(s)
+  term: banc(iau)
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: opinion
+  term: barn
+  type: fem. noun / enw benywaidd
+  unit: 6
+- definition: what?
+  term: be?/beth?
+  type: other / arall
+  unit: 2
+- definition: bike(s)
+  term: beic(iau)
+  type: masc. noun / enw gwrywaidd
+  unit: 4
+- definition: fantastic
+  term: bendigedig
+  type: ansoddair / adjective
+  unit: 2
+- definition: flower(s)
+  term: blodyn (blodau)
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: to be
+  term: bod
+  type: verb / berf
+  unit: 2
+- definition: morning(s)
+  term: bore(au)
+  type: masc. noun / enw gwrywaidd
+  unit: 1
+- definition: fine
+  term: braf
+  type: ansoddair / adjective
+  unit: 6
+- definition: breakfast(s)
+  term: brecwast(au)
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: to snow
+  term: bwrw eira
+  type: verb / berf
+  unit: 6
+- definition: to rain
+  term: bwrw glaw
+  type: verb / berf
+  unit: 6
+- definition: bus(es)
+  term: bws (bysiau)
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: food
+  term: bwyd
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: to eat
+  term: bwyta
+  type: verb / berf
+  unit: 2
+- definition: world
+  term: byd
+  type: masc. noun / enw gwrywaidd
+  unit: 4
+- definition: to live
+  term: byw
+  type: verb / berf
+  unit: 1
+- definition: cake(s)
+  term: cacen(nau)
+  type: fem. noun / enw benywaidd
+  unit: 2
+- definition: to have
+  term: cael
+  type: verb / berf
+  unit: 3
+- definition: "caf\xE9(s)"
+  term: caffi(s)
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: to sing
+  term: canu
+  type: verb / berf
+  unit: 2
+- definition: car(s)
+  term: car (ceir)
+  type: masc. noun / enw gwrywaidd
+  unit: 1
+- definition: a home (homes)
+  term: cartref(i)
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: to close
+  term: cau
+  type: verb / berf
+  unit: 6
+- definition: cheese
+  term: caws
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: to walk
+  term: cerdded
+  type: verb / berf
+  unit: 4
+- definition: card(s)
+  term: cerdyn (cardiau)
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: you
+  term: chi
+  type: other / arall
+  unit: 1
+- definition: either
+  term: chwaith
+  type: other / arall
+  unit: 2
+- definition: to play
+  term: chwarae
+  type: verb / berf
+  unit: 2
+- definition: meat(s)
+  term: cig(oedd)
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: club(s)
+  term: clwb (clybiau)
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: to hear
+  term: clywed
+  type: verb / berf
+  unit: 3
+- definition: red
+  term: coch
+  type: ansoddair / adjective
+  unit: 2
+- definition: coffee(s)
+  term: coffi(s)
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: to remember
+  term: cofio
+  type: verb / berf
+  unit: 4
+- definition: to cook
+  term: coginio
+  type: verb / berf
+  unit: 5
+- definition: cricket
+  term: criced
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: welcome
+  term: croeso
+  type: masc. noun / enw gwrywaidd
+  unit: 1
+- definition: to meet
+  term: cyfarfod
+  type: verb / berf
+  unit: 6
+- definition: meeting(s)
+  term: cyfarfod(ydd)
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: cloudy
+  term: cymylog
+  type: ansoddair / adjective
+  unit: 6
+- definition: warm
+  term: cynnes
+  type: ansoddair / adjective
+  unit: 6
+- definition: song(s)
+  term: "c\xE2n (caneuon)"
+  type: fem. noun / enw benywaidd
+  unit: 6
+- definition: good
+  term: da
+  type: ansoddair / adjective
+  unit: 1
+- definition: to understand
+  term: dallt / deall
+  type: verb / berf
+  unit: 3
+- definition: to read
+  term: darllen
+  type: verb / berf
+  unit: 1
+- definition: to dance
+  term: dawnsio
+  type: verb / berf
+  unit: 2
+- definition: yesterday
+  term: ddoe
+  type: other / arall
+  unit: 5
+- definition: to start
+  term: dechrau
+  type: verb / berf
+  unit: 6
+- definition: to say, to tell
+  term: deud
+  type: verb / berf
+  unit: 4
+- definition: boring, miserable
+  term: diflas
+  type: ansoddair / adjective
+  unit: 6
+- definition: clothes
+  term: dillad
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: not; nothing; zero
+  term: dim
+  type: other / arall
+  unit: 2
+- definition: drink(s)
+  term: diod(ydd)
+  type: fem. noun / enw benywaidd
+  unit: 3
+- definition: thanks
+  term: diolch
+  type: other / arall
+  unit: 1
+- definition: last (previous)
+  term: diwetha
+  type: ansoddair / adjective
+  unit: 5
+- definition: class(es)
+  term: dosbarth(iadau)
+  type: masc. noun / enw gwrywaidd
+  unit: 1
+- definition: over
+  term: dros
+  type: other / arall
+  unit: 4
+- definition: day(s)
+  term: dydd(iau)
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: here is, this is
+  term: dyma
+  type: other / arall
+  unit: 3
+- definition: man (men)
+  term: dyn(ion)
+  type: masc. noun / enw gwrywaidd
+  unit: 4
+- definition: there is
+  term: dyna
+  type: other / arall
+  unit: 4
+- definition: "that\u2019s why"
+  term: dyna pam
+  type: other / arall
+  unit: 1
+- definition: to learn, to teach
+  term: dysgu
+  type: verb / berf
+  unit: 1
+- definition: to come
+  term: "d\u0175ad"
+  type: verb / berf
+  unit: 4
+- definition: water
+  term: "d\u0175r"
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: to look at
+  term: edrych ar
+  type: verb / berf
+  unit: 5
+- definition: with
+  term: efo
+  type: other / arall
+  unit: 1
+- definition: church(es)
+  term: eglwys(i)
+  type: fem. noun / enw benywaidd
+  unit: 5
+- definition: snow
+  term: eira
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: name(s)
+  term: enw(au)
+  type: masc. noun / enw gwrywaidd
+  unit: 1
+- definition: again
+  term: eto
+  type: other / arall
+  unit: 1
+- definition: phone(s)
+  term: "ff\xF4n (ffonau)"
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: me
+  term: fi
+  type: other / arall
+  unit: 1
+- definition: vinegar
+  term: finegr
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: to leave
+  term: gadael
+  type: verb / berf
+  unit: 6
+- definition: by, from (a person)
+  term: gan
+  type: other / arall
+  unit: 4
+- definition: to garden
+  term: garddio
+  type: verb / berf
+  unit: 5
+- definition: rain
+  term: glaw
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: to wash
+  term: golchi
+  type: verb / berf
+  unit: 5
+- definition: golf
+  term: golff
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: to finish
+  term: gorffen
+  type: verb / berf
+  unit: 6
+- definition: to have to
+  term: gorfod
+  type: verb / berf
+  unit: 6
+- definition: work
+  term: gwaith
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: to work
+  term: gweithio
+  type: verb / berf
+  unit: 2
+- definition: to see
+  term: gweld
+  type: verb / berf
+  unit: 2
+- definition: bed(s)
+  term: gwely(au)
+  type: masc. noun / enw gwrywaidd
+  unit: 4
+- definition: wine
+  term: gwin
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: country (countries)
+  term: gwlad (gwledydd)
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: wet
+  term: gwlyb
+  type: ansoddair / adjective
+  unit: 6
+- definition: to do, to make
+  term: gwneud
+  type: verb / berf
+  unit: 2
+- definition: wife (wives)
+  term: gwraig (gwragedd)
+  type: fem. noun / enw benywaidd
+  unit: 6
+- definition: original
+  term: gwreiddiol
+  type: ansoddair / adjective
+  unit: 4
+- definition: to know
+  term: gwybod
+  type: verb / berf
+  unit: 6
+- definition: holiday(s)
+  term: gwyliau
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: to watch
+  term: gwylio
+  type: verb / berf
+  unit: 1
+- definition: white
+  term: gwyn
+  type: ansoddair / adjective
+  unit: 2
+- definition: windy
+  term: gwyntog
+  type: ansoddair / adjective
+  unit: 6
+- definition: in the evening
+  term: "gyda\u2019r nos"
+  type: other / arall
+  unit: 5
+- definition: to drive
+  term: gyrru
+  type: verb / berf
+  unit: 1
+- definition: game(s), match(es)
+  term: "g\xEAm (gemau)"
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: husband(s)
+  term: "g\u0175r (gw\u0177r)"
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: salt
+  term: halen
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: half
+  term: hanner
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: happy
+  term: hapus
+  type: ansoddair / adjective
+  unit: 6
+- definition: today
+  term: heddiw
+  type: other / arall
+  unit: 1
+- definition: police
+  term: heddlu
+  type: masc. noun / enw gwrywaidd
+  unit: 1
+- definition: to fly
+  term: hedfan
+  type: verb / berf
+  unit: 4
+- definition: also
+  term: hefyd
+  type: other / arall
+  unit: 2
+- definition: to help
+  term: helpu
+  type: verb / berf
+  unit: 4
+- definition: tonight
+  term: heno
+  type: other / arall
+  unit: 2
+- definition: hockey
+  term: hoci
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: to like
+  term: hoffi
+  type: verb / berf
+  unit: 2
+- definition: ice cream
+  term: "hufen i\xE2"
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: bye!
+  term: hwyl!
+  type: other / arall
+  unit: 1
+- definition: nice, lovely
+  term: hyfryd
+  type: ansoddair / adjective
+  unit: 6
+- definition: to; for
+  term: i
+  type: other / arall
+  unit: 1
+- definition: ok, very
+  term: iawn
+  type: other / arall
+  unit: 1
+- definition: to want
+  term: isio / eisiau
+  type: verb / berf
+  unit: 3
+- definition: to like
+  term: licio
+  type: verb / berf
+  unit: 2
+- definition: floor
+  term: llawr
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: place(s)
+  term: lle(fydd)
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: where?
+  term: lle?
+  type: other / arall
+  unit: 1
+- definition: milk
+  term: llefrith/llaeth
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: dish(es)
+  term: llestr(i)
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: book(s)
+  term: llyfr(au)
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: library
+  term: llyfrgell(oedd)
+  type: fem. noun / enw benywaidd
+  unit: 5
+- definition: lounge
+  term: lolfa
+  type: fem. noun / enw benywaidd
+  unit: 5
+- definition: big
+  term: mawr
+  type: ansoddair / adjective
+  unit: 6
+- definition: to be able to
+  term: medru
+  type: verb / berf
+  unit: 6
+- definition: to go
+  term: mynd
+  type: verb / berf
+  unit: 2
+- definition: to go for a walk
+  term: mynd am dro
+  type: other / arall
+  unit: 2
+- definition: to know, to recognise
+  term: nabod
+  type: verb / berf
+  unit: 4
+- definition: nice
+  term: neis
+  type: ansoddair / adjective
+  unit: 2
+- definition: last night
+  term: neithiwr
+  type: other / arall
+  unit: 5
+- definition: hall(s)
+  term: neuadd(au)
+  type: fem. noun / enw benywaidd
+  unit: 6
+- definition: new
+  term: newydd
+  type: ansoddair / adjective
+  unit: 2
+- definition: to swim
+  term: nofio
+  type: verb / berf
+  unit: 3
+- definition: night
+  term: nos
+  type: fem. noun / enw benywaidd
+  unit: 1
+- definition: evening
+  term: noswaith
+  type: fem. noun / enw benywaidd
+  unit: 1
+- definition: cold
+  term: oer
+  type: ansoddair / adjective
+  unit: 6
+- definition: terrible
+  term: ofnadwy
+  type: ansoddair / adjective
+  unit: 1
+- definition: but
+  term: ond
+  type: other / arall
+  unit: 1
+- definition: please
+  term: "os gwelwch chi\u2019n dda"
+  type: other / arall
+  unit: 3
+- definition: why?
+  term: pam?
+  type: other / arall
+  unit: 6
+- definition: when
+  term: pan
+  type: other / arall
+  unit: 4
+- definition: cuppa
+  term: paned
+  type: fem. noun / enw benywaidd
+  unit: 1
+- definition: newspaper
+  term: papur newydd
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: park(s)
+  term: parc(iau)
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: everybody
+  term: pawb
+  type: other / arall
+  unit: 1
+- definition: weekend(s)
+  term: penwythnos(au)
+  type: masc. noun / enw gwrywaidd
+  unit: 4
+- definition: pink
+  term: pinc
+  type: ansoddair / adjective
+  unit: 1
+- definition: every
+  term: pob
+  type: other / arall
+  unit: 4
+- definition: good luck
+  term: pob lwc
+  type: other / arall
+  unit: 4
+- definition: hot
+  term: poeth
+  type: ansoddair / adjective
+  unit: 6
+- definition: problem(s)
+  term: problem(au)
+  type: fem. noun / enw benywaidd
+  unit: 1
+- definition: when?
+  term: pryd?
+  type: other / arall
+  unit: 2
+- definition: to buy
+  term: prynu
+  type: verb / berf
+  unit: 2
+- definition: busy
+  term: prysur
+  type: ansoddair / adjective
+  unit: 6
+- definition: pound(s) (money)
+  term: punt (punnoedd)
+  type: fem. noun / enw benywaidd
+  unit: 3
+- definition: who?
+  term: pwy?
+  type: other / arall
+  unit: 1
+- definition: important
+  term: pwysig
+  type: ansoddair / adjective
+  unit: 6
+- definition: fish(es)
+  term: pysgodyn (pysgod)
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: ball(s)
+  term: "p\xEAl (peli)"
+  type: fem. noun / enw benywaidd
+  unit: 2
+- definition: football
+  term: "p\xEAl-droed"
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: afternoon(s)
+  term: "p\u2019nawn(iau)"
+  type: masc. noun / enw gwrywaidd
+  unit: 1
+- definition: radio
+  term: radio
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: programme(s)
+  term: rhaglen(ni)
+  type: fem. noun / enw benywaidd
+  unit: 1
+- definition: to run
+  term: rhedeg
+  type: verb / berf
+  unit: 6
+- definition: number(s)
+  term: rhif(au)
+  type: masc. noun / enw gwrywaidd
+  unit: 1
+- definition: something
+  term: rhywbeth
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: something else
+  term: rhywbeth arall
+  type: other / arall
+  unit: 3
+- definition: somewhere
+  term: rhywle
+  type: other / arall
+  unit: 6
+- definition: rugby
+  term: rygbi
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: now
+  term: "r\u0175an"
+  type: other / arall
+  unit: 1
+- definition: chips
+  term: sglodion
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: cinema(s)
+  term: "sinema (sinem\xE2u)"
+  type: masc. noun / enw gwrywaidd
+  unit: 4
+- definition: chocolate(s)
+  term: siocled(i)
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: shop(s)
+  term: siop(au)
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: to shop
+  term: siopa
+  type: verb / berf
+  unit: 2
+- definition: sugar
+  term: siwgr
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: sure
+  term: "si\u0175r"
+  type: ansoddair / adjective
+  unit: 2
+- definition: to iron
+  term: smwddio
+  type: verb / berf
+  unit: 2
+- definition: stamp(s)
+  term: stamp(iau)
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: to stop
+  term: stopio
+  type: verb / berf
+  unit: 1
+- definition: stormy
+  term: stormus
+  type: ansoddair / adjective
+  unit: 6
+- definition: how?
+  term: sut?
+  type: other / arall
+  unit: 1
+- definition: noisy
+  term: swnllyd
+  type: ansoddair / adjective
+  unit: 6
+- definition: supper
+  term: swper
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: job(s)
+  term: swydd(i)
+  type: fem. noun / enw benywaidd
+  unit: 3
+- definition: a post office
+  term: swyddfa bost
+  type: fem. noun / enw benywaidd
+  unit: 5
+- definition: dry
+  term: sych
+  type: ansoddair / adjective
+  unit: 6
+- definition: pub(s)
+  term: tafarn(au)
+  type: fem. noun / enw benywaidd
+  unit: 5
+- definition: tea
+  term: te
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: television
+  term: teledu
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: tennis
+  term: tennis
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: family (families)
+  term: teulu(oedd)
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: theatre(s)
+  term: theatr(au)
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: you
+  term: ti
+  type: other / arall
+  unit: 1
+- definition: tutor(s)
+  term: tiwtor(iaid)
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: to break down
+  term: torri lawr
+  type: verb / berf
+  unit: 6
+- definition: toast
+  term: tost
+  type: masc. noun / enw gwrywaidd
+  unit: 2
+- definition: beach(es)
+  term: traeth(au)
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: town(s)
+  term: tref(i)
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: train(s)
+  term: "tr\xEAn (trenau)"
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: about
+  term: tua
+  type: other / arall
+  unit: 6
+- definition: page(s)
+  term: tudalen(nau)
+  type: fem. noun / enw benywaidd
+  unit: 4
+- definition: weather
+  term: tywydd
+  type: masc. noun / enw gwrywaidd
+  unit: 6
+- definition: team(s)
+  term: "t\xEEm (timau)"
+  type: masc. noun / enw gwrywaidd
+  unit: 4
+- definition: house(s)
+  term: "t\u0177 (tai)"
+  type: masc. noun / enw gwrywaidd
+  unit: 3
+- definition: unit(s)
+  term: uned(au)
+  type: fem. noun / enw benywaidd
+  unit: 1
+- definition: tired
+  term: wedi blino
+  type: ansoddair / adjective
+  unit: 1
+- definition: afterwards
+  term: wedyn
+  type: other / arall
+  unit: 5
+- definition: sometimes
+  term: weithiau
+  type: other / arall
+  unit: 4
+- definition: indeed
+  term: wir
+  type: other / arall
+  unit: 4
+- definition: of course
+  term: wrth gwrs
+  type: other / arall
+  unit: 2
+- definition: week(s)
+  term: wythnos(au)
+  type: fem. noun / enw benywaidd
+  unit: 2
+- definition: yuck
+  term: ych a fi
+  type: other / arall
+  unit: 2
+- definition: to drink
+  term: yfed
+  type: verb / berf
+  unit: 2
+- definition: tomorrow
+  term: yfory
+  type: other / arall
+  unit: 2
+- definition: here
+  term: yma
+  type: other / arall
+  unit: 1
+- definition: to retire
+  term: ymddeol
+  type: verb / berf
+  unit: 2
+- definition: to relax
+  term: ymlacio
+  type: verb / berf
+  unit: 5
+- definition: to wash (oneself)
+  term: ymolchi
+  type: verb / berf
+  unit: 5
+- definition: in
+  term: yn
+  type: other / arall
+  unit: 1
+- definition: there
+  term: yno
+  type: other / arall
+  unit: 4
+- definition: hospital(s)
+  term: ysbyty (ysbytai)
+  type: masc. noun / enw gwrywaidd
+  unit: 5
+- definition: school(s)
+  term: ysgol(ion)
+  type: fem. noun / enw benywaidd
+  unit: 5
+- definition: or; then
+  term: "\u2018ta"
+  type: other / arall
+  unit: 4

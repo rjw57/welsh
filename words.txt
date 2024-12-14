@@ -1,0 +1,295 @@
+U1
+EB
+Cymraeg Welsh
+nos night
+noswaith evening
+paned cuppa
+EG
+bore(au)_ morning(s)
+car (ceir)_ car(s)
+croeso welcome
+dosbarth(iadau) class(es) 
+B
+byw_ to live
+darllen_ to read 
+dysgu_ to learn, to teach
+AN
+da good
+ofnadwy terrible
+AR
+a and 
+chi you
+diolch thanks
+dyna pam_ that’s why
+efo with
+eto again
+fi me
+heddiw today
+hwyl! bye!
+i_ to; for
+EB
+problem(au) problem(s)
+rhaglen(ni) programme(s)
+uned(au) unit(s)
+EG
+enw(au)_ name(s)
+heddlu_ police
+p’nawn(iau) afternoon(s)
+rhif(au) number(s)
+B
+gwylio_ to watch
+gyrru_ to drive
+stopio_ to stop
+AN
+pinc_ pink 
+wedi blino_ tired
+AR
+iawn_ ok, very 
+lle?_ where?
+ond_ but
+pawb_ everybody
+pwy?_ who?
+rŵan_ now
+sut?_ how?
+ti_ you
+yma_ here
+yn_ in
+U2
+EB
+cacen(nau) cake(s)
+pêl (peli)_ ball(s)
+EG
+bwyd food
+caws cheese
+cerdyn (cardiau)_ card(s)
+cig(oedd) meat(s)
+coffi(s) coffee(s)
+criced cricket
+dillad clothes
+dydd(iau) day(s)
+golff golf
+gwin wine 
+hoci hockey
+B
+bod_ to be 
+bwyta_ to eat
+canu_ to sing
+chwarae_ to play
+dawnsio_ to dance
+gweithio_ to work
+gweld_ to see
+gwneud_ to do, to make
+AN
+bendigedig_ fantastic
+coch_ red
+gwyn_ white
+AR
+ar_ on
+be?/beth?_ what?
+chwaith either
+dim_ not; nothing; zero
+hefyd also
+heno tonight
+EB
+wythnos(au) week(s)
+EG
+llefrith/llaeth milk
+papur newydd_ newspaper
+pêl-droed_ football
+radio radio
+siocled(i) chocolate(s)
+siwgr sugar
+teledu television
+tennis tennis 
+tiwtor(iaid) tutor(s)
+tost toast
+B
+hoffi_ to like 
+licio_ to like
+mynd_ to go
+prynu_ to buy
+siopa_ to shop
+smwddio_ to iron
+yfed_ to drink
+ymddeol_ to retire
+AN
+neis nice
+newydd new
+siŵr sure
+AR
+mynd am dro_ to go for a walk
+pryd? when?
+wrth gwrs_ of course
+ych a fi_ yuck
+yfory tomorrow
+U3
+EB
+diod(ydd) drink(s)
+swydd(i) job(s)
+punt (punnoedd)_ pound(s) (money) 
+EG
+blodyn (blodau)_ flower(s)
+hufen iâ_ ice cream
+caffi(s) café(s)
+pysgodyn (pysgod)_ fish(es) 
+dŵr water
+rhywbeth something
+finegr vinegar
+sglodion chips
+ffôn (ffonau)_ phone(s)
+te tea 
+gwaith work
+tŷ (tai)_ house(s) 
+halen salt 
+B
+cael_ to have
+isio / eisiau_ to want
+clywed_ to hear
+nofio_ to swim
+dallt / deall_ to understand
+AR
+arall_ other, else
+os gwelwch chi’n dda_ please
+dyma_ here is, this is
+rhywbeth arall_ something else
+U4
+EB
+Abertawe Swansea
+amgueddfa (amgueddfeydd)_ museum(s)
+Caerdydd Cardiff
+Cymru Wales
+gêm (gemau)_ game(s), match(es)
+gwlad (gwledydd)_ country (countries)
+gwyliau holiday(s) 
+Iwerddon Ireland 
+Lloegr England
+Llundain London
+siop(au) shop(s)
+tref(i) town(s)
+tudalen(nau) page(s)
+theatr(au) theatre(s) 
+Yr Alban_ Scotland
+EG
+beic(iau) bike(s)
+byd world
+dyn(ion)_ man (men)
+gwely(au) bed(s)
+Nadolig Christmas
+penwythnos(au) weekend(s)
+sinema (sinemâu)_ cinema(s)
+tîm (timau)_ team(s)
+B
+aros_ to stay, to wait
+cerdded_ to walk
+cofio_ to remember
+deud_ to say, to tell
+dŵad_ to come 
+hedfan_ to fly 
+helpu_ to help
+nabod_ to know, to recognise
+AN
+aml often
+bach small
+gwreiddiol original
+AR
+a deud y gwir_ to tell the truth 
+adre home
+dros over
+dyna_ there is
+gan_ by, from (a person)
+pan when
+pob every
+pob lwc_ good luck
+‘ta_ or; then
+weithiau sometimes
+wir indeed
+yno there
+U5
+EB
+eglwys(i) church(es)
+lolfa lounge
+llyfrgell(oedd) library
+swyddfa bost_ a post office
+tafarn(au) pub(s)
+ysgol(ion) school(s)
+AN
+diwetha_ last (previous)
+EG
+amser time
+banc(iau) bank(s)
+brecwast(au) breakfast(s)
+cartref(i)_ a home (homes)
+clwb (clybiau)_ club(s)
+llestr(i) dish(es)
+llyfr(au) book(s) 
+parc(iau) park(s)
+rygbi rugby
+stamp(iau) stamp(s) 
+swper supper
+ysbyty (ysbytai)_ hospital(s)
+B
+coginio_ to cook
+edrych ar_ to look at
+garddio_ to garden
+golchi_ to wash
+ymlacio_ to relax
+ymolchi_ to wash (oneself)
+AR
+ddoe yesterday
+gyda’r nos_ in the evening
+neithiwr_ last night 
+wedyn afterwards
+U6
+EB
+awyren(nau) plane(s)
+barn opinion
+cân (caneuon)_ song(s)
+gwraig (gwragedd)_ wife (wives)
+neuadd(au) hall(s)
+AN
+braf fine
+cymylog cloudy
+cynnes warm
+diflas_ boring, miserable
+gwlyb wet
+gwyntog windy
+hapus happy
+hyfryd_ nice, lovely
+mawr big 
+oer cold 
+poeth hot
+prysur busy
+pwysig important
+stormus stormy
+swnllyd noisy
+sych dry
+EG
+bws (bysiau)_ bus(es)
+cyfarfod(ydd) meeting(s)
+eira snow
+glaw rain
+gŵr (gwŷr)_ husband(s)
+hanner half
+llawr floor
+lle(fydd) place(s)
+teulu(oedd)_ family (families)
+traeth(au) beach(es)
+trên (trenau)_ train(s)
+tywydd weather
+B
+bwrw eira_ to snow
+bwrw glaw_ to rain
+cau_ to close
+cyfarfod_ to meet
+dechrau_ to start
+gadael_ to leave
+gorfod_ to have to
+gorffen_ to finish
+gwybod_ to know
+medru_ to be able to
+rhedeg_ to run
+torri lawr_ to break down
+AR
+pam? why?
+rhywle somewhere 
+tua about
