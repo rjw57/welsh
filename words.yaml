@@ -1,1000 +1,1250 @@
 - definition: Swansea
+  gender: feminine
+  part_of_speech: noun
   term: Abertawe
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: Cardiff
+  gender: feminine
+  part_of_speech: noun
   term: Caerdydd
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: Welsh
+  gender: feminine
+  part_of_speech: noun
   term: Cymraeg
-  type: fem. noun / enw benywaidd
   unit: 1
 - definition: Wales
+  gender: feminine
+  part_of_speech: noun
   term: Cymru
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: Ireland
+  gender: feminine
+  part_of_speech: noun
   term: Iwerddon
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: England
+  gender: feminine
+  part_of_speech: noun
   term: Lloegr
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: London
+  gender: feminine
+  part_of_speech: noun
   term: Llundain
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: Christmas
+  gender: masculine
+  part_of_speech: noun
   term: Nadolig
-  type: masc. noun / enw gwrywaidd
   unit: 4
 - definition: Scotland
+  gender: feminine
+  part_of_speech: noun
   term: Yr Alban
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: and
+  gender: null
+  part_of_speech: other
   term: a
-  type: other / arall
   unit: 1
 - definition: to tell the truth
+  gender: null
+  part_of_speech: other
   term: a deud y gwir
-  type: other / arall
   unit: 4
 - definition: home
+  gender: null
+  part_of_speech: other
   term: adre
-  type: other / arall
   unit: 4
 - definition: museum(s)
+  gender: feminine
+  part_of_speech: noun
   term: amgueddfa (amgueddfeydd)
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: often
+  gender: null
+  part_of_speech: adjective
   term: aml
-  type: ansoddair / adjective
   unit: 4
 - definition: time
+  gender: masculine
+  part_of_speech: noun
   term: amser
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: 'on'
+  gender: null
+  part_of_speech: other
   term: ar
-  type: other / arall
   unit: 2
 - definition: other, else
+  gender: null
+  part_of_speech: other
   term: arall
-  type: other / arall
   unit: 3
 - definition: to stay, to wait
+  gender: null
+  part_of_speech: verb
   term: aros
-  type: verb / berf
   unit: 4
 - definition: plane(s)
+  gender: feminine
+  part_of_speech: noun
   term: awyren(nau)
-  type: fem. noun / enw benywaidd
   unit: 6
 - definition: small
+  gender: null
+  part_of_speech: adjective
   term: bach
-  type: ansoddair / adjective
   unit: 4
 - definition: bank(s)
+  gender: masculine
+  part_of_speech: noun
   term: banc(iau)
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: opinion
+  gender: feminine
+  part_of_speech: noun
   term: barn
-  type: fem. noun / enw benywaidd
   unit: 6
 - definition: what?
+  gender: null
+  part_of_speech: other
   term: be?/beth?
-  type: other / arall
   unit: 2
 - definition: bike(s)
+  gender: masculine
+  part_of_speech: noun
   term: beic(iau)
-  type: masc. noun / enw gwrywaidd
   unit: 4
 - definition: fantastic
+  gender: null
+  part_of_speech: adjective
   term: bendigedig
-  type: ansoddair / adjective
   unit: 2
 - definition: flower(s)
+  gender: masculine
+  part_of_speech: noun
   term: blodyn (blodau)
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: to be
+  gender: null
+  part_of_speech: verb
   term: bod
-  type: verb / berf
   unit: 2
 - definition: morning(s)
+  gender: masculine
+  part_of_speech: noun
   term: bore(au)
-  type: masc. noun / enw gwrywaidd
   unit: 1
 - definition: fine
+  gender: null
+  part_of_speech: adjective
   term: braf
-  type: ansoddair / adjective
   unit: 6
 - definition: breakfast(s)
+  gender: masculine
+  part_of_speech: noun
   term: brecwast(au)
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: to snow
+  gender: null
+  part_of_speech: verb
   term: bwrw eira
-  type: verb / berf
   unit: 6
 - definition: to rain
+  gender: null
+  part_of_speech: verb
   term: bwrw glaw
-  type: verb / berf
   unit: 6
 - definition: bus(es)
+  gender: masculine
+  part_of_speech: noun
   term: bws (bysiau)
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: food
+  gender: masculine
+  part_of_speech: noun
   term: bwyd
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: to eat
+  gender: null
+  part_of_speech: verb
   term: bwyta
-  type: verb / berf
   unit: 2
 - definition: world
+  gender: masculine
+  part_of_speech: noun
   term: byd
-  type: masc. noun / enw gwrywaidd
   unit: 4
 - definition: to live
+  gender: null
+  part_of_speech: verb
   term: byw
-  type: verb / berf
   unit: 1
 - definition: cake(s)
+  gender: feminine
+  part_of_speech: noun
   term: cacen(nau)
-  type: fem. noun / enw benywaidd
   unit: 2
 - definition: to have
+  gender: null
+  part_of_speech: verb
   term: cael
-  type: verb / berf
   unit: 3
 - definition: "caf\xE9(s)"
+  gender: masculine
+  part_of_speech: noun
   term: caffi(s)
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: to sing
+  gender: null
+  part_of_speech: verb
   term: canu
-  type: verb / berf
   unit: 2
 - definition: car(s)
+  gender: masculine
+  part_of_speech: noun
   term: car (ceir)
-  type: masc. noun / enw gwrywaidd
   unit: 1
 - definition: a home (homes)
+  gender: masculine
+  part_of_speech: noun
   term: cartref(i)
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: to close
+  gender: null
+  part_of_speech: verb
   term: cau
-  type: verb / berf
   unit: 6
 - definition: cheese
+  gender: masculine
+  part_of_speech: noun
   term: caws
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: to walk
+  gender: null
+  part_of_speech: verb
   term: cerdded
-  type: verb / berf
   unit: 4
 - definition: card(s)
+  gender: masculine
+  part_of_speech: noun
   term: cerdyn (cardiau)
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: you
+  gender: null
+  part_of_speech: other
   term: chi
-  type: other / arall
   unit: 1
 - definition: either
+  gender: null
+  part_of_speech: other
   term: chwaith
-  type: other / arall
   unit: 2
 - definition: to play
+  gender: null
+  part_of_speech: verb
   term: chwarae
-  type: verb / berf
   unit: 2
 - definition: meat(s)
+  gender: masculine
+  part_of_speech: noun
   term: cig(oedd)
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: club(s)
+  gender: masculine
+  part_of_speech: noun
   term: clwb (clybiau)
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: to hear
+  gender: null
+  part_of_speech: verb
   term: clywed
-  type: verb / berf
   unit: 3
 - definition: red
+  gender: null
+  part_of_speech: adjective
   term: coch
-  type: ansoddair / adjective
   unit: 2
 - definition: coffee(s)
+  gender: masculine
+  part_of_speech: noun
   term: coffi(s)
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: to remember
+  gender: null
+  part_of_speech: verb
   term: cofio
-  type: verb / berf
   unit: 4
 - definition: to cook
+  gender: null
+  part_of_speech: verb
   term: coginio
-  type: verb / berf
   unit: 5
 - definition: cricket
+  gender: masculine
+  part_of_speech: noun
   term: criced
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: welcome
+  gender: masculine
+  part_of_speech: noun
   term: croeso
-  type: masc. noun / enw gwrywaidd
   unit: 1
 - definition: to meet
+  gender: null
+  part_of_speech: verb
   term: cyfarfod
-  type: verb / berf
   unit: 6
 - definition: meeting(s)
+  gender: masculine
+  part_of_speech: noun
   term: cyfarfod(ydd)
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: cloudy
+  gender: null
+  part_of_speech: adjective
   term: cymylog
-  type: ansoddair / adjective
   unit: 6
 - definition: warm
+  gender: null
+  part_of_speech: adjective
   term: cynnes
-  type: ansoddair / adjective
   unit: 6
 - definition: song(s)
+  gender: feminine
+  part_of_speech: noun
   term: "c\xE2n (caneuon)"
-  type: fem. noun / enw benywaidd
   unit: 6
 - definition: good
+  gender: null
+  part_of_speech: adjective
   term: da
-  type: ansoddair / adjective
   unit: 1
 - definition: to understand
+  gender: null
+  part_of_speech: verb
   term: dallt / deall
-  type: verb / berf
   unit: 3
 - definition: to read
+  gender: null
+  part_of_speech: verb
   term: darllen
-  type: verb / berf
   unit: 1
 - definition: to dance
+  gender: null
+  part_of_speech: verb
   term: dawnsio
-  type: verb / berf
   unit: 2
 - definition: yesterday
+  gender: null
+  part_of_speech: other
   term: ddoe
-  type: other / arall
   unit: 5
 - definition: to start
+  gender: null
+  part_of_speech: verb
   term: dechrau
-  type: verb / berf
   unit: 6
 - definition: to say, to tell
+  gender: null
+  part_of_speech: verb
   term: deud
-  type: verb / berf
   unit: 4
 - definition: boring, miserable
+  gender: null
+  part_of_speech: adjective
   term: diflas
-  type: ansoddair / adjective
   unit: 6
 - definition: clothes
+  gender: masculine
+  part_of_speech: noun
   term: dillad
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: not; nothing; zero
+  gender: null
+  part_of_speech: other
   term: dim
-  type: other / arall
   unit: 2
 - definition: drink(s)
+  gender: feminine
+  part_of_speech: noun
   term: diod(ydd)
-  type: fem. noun / enw benywaidd
   unit: 3
 - definition: thanks
+  gender: null
+  part_of_speech: other
   term: diolch
-  type: other / arall
   unit: 1
 - definition: last (previous)
+  gender: null
+  part_of_speech: adjective
   term: diwetha
-  type: ansoddair / adjective
   unit: 5
 - definition: class(es)
+  gender: masculine
+  part_of_speech: noun
   term: dosbarth(iadau)
-  type: masc. noun / enw gwrywaidd
   unit: 1
 - definition: over
+  gender: null
+  part_of_speech: other
   term: dros
-  type: other / arall
   unit: 4
 - definition: day(s)
+  gender: masculine
+  part_of_speech: noun
   term: dydd(iau)
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: here is, this is
+  gender: null
+  part_of_speech: other
   term: dyma
-  type: other / arall
   unit: 3
 - definition: man (men)
+  gender: masculine
+  part_of_speech: noun
   term: dyn(ion)
-  type: masc. noun / enw gwrywaidd
   unit: 4
 - definition: there is
+  gender: null
+  part_of_speech: other
   term: dyna
-  type: other / arall
   unit: 4
 - definition: "that\u2019s why"
+  gender: null
+  part_of_speech: other
   term: dyna pam
-  type: other / arall
   unit: 1
 - definition: to learn, to teach
+  gender: null
+  part_of_speech: verb
   term: dysgu
-  type: verb / berf
   unit: 1
 - definition: to come
+  gender: null
+  part_of_speech: verb
   term: "d\u0175ad"
-  type: verb / berf
   unit: 4
 - definition: water
+  gender: masculine
+  part_of_speech: noun
   term: "d\u0175r"
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: to look at
+  gender: null
+  part_of_speech: verb
   term: edrych ar
-  type: verb / berf
   unit: 5
 - definition: with
+  gender: null
+  part_of_speech: other
   term: efo
-  type: other / arall
   unit: 1
 - definition: church(es)
+  gender: feminine
+  part_of_speech: noun
   term: eglwys(i)
-  type: fem. noun / enw benywaidd
   unit: 5
 - definition: snow
+  gender: masculine
+  part_of_speech: noun
   term: eira
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: name(s)
+  gender: masculine
+  part_of_speech: noun
   term: enw(au)
-  type: masc. noun / enw gwrywaidd
   unit: 1
 - definition: again
+  gender: null
+  part_of_speech: other
   term: eto
-  type: other / arall
   unit: 1
 - definition: phone(s)
+  gender: masculine
+  part_of_speech: noun
   term: "ff\xF4n (ffonau)"
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: me
+  gender: null
+  part_of_speech: other
   term: fi
-  type: other / arall
   unit: 1
 - definition: vinegar
+  gender: masculine
+  part_of_speech: noun
   term: finegr
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: to leave
+  gender: null
+  part_of_speech: verb
   term: gadael
-  type: verb / berf
   unit: 6
 - definition: by, from (a person)
+  gender: null
+  part_of_speech: other
   term: gan
-  type: other / arall
   unit: 4
 - definition: to garden
+  gender: null
+  part_of_speech: verb
   term: garddio
-  type: verb / berf
   unit: 5
 - definition: rain
+  gender: masculine
+  part_of_speech: noun
   term: glaw
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: to wash
+  gender: null
+  part_of_speech: verb
   term: golchi
-  type: verb / berf
   unit: 5
 - definition: golf
+  gender: masculine
+  part_of_speech: noun
   term: golff
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: to finish
+  gender: null
+  part_of_speech: verb
   term: gorffen
-  type: verb / berf
   unit: 6
 - definition: to have to
+  gender: null
+  part_of_speech: verb
   term: gorfod
-  type: verb / berf
   unit: 6
 - definition: work
+  gender: masculine
+  part_of_speech: noun
   term: gwaith
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: to work
+  gender: null
+  part_of_speech: verb
   term: gweithio
-  type: verb / berf
   unit: 2
 - definition: to see
+  gender: null
+  part_of_speech: verb
   term: gweld
-  type: verb / berf
   unit: 2
 - definition: bed(s)
+  gender: masculine
+  part_of_speech: noun
   term: gwely(au)
-  type: masc. noun / enw gwrywaidd
   unit: 4
 - definition: wine
+  gender: masculine
+  part_of_speech: noun
   term: gwin
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: country (countries)
+  gender: feminine
+  part_of_speech: noun
   term: gwlad (gwledydd)
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: wet
+  gender: null
+  part_of_speech: adjective
   term: gwlyb
-  type: ansoddair / adjective
   unit: 6
 - definition: to do, to make
+  gender: null
+  part_of_speech: verb
   term: gwneud
-  type: verb / berf
   unit: 2
 - definition: wife (wives)
+  gender: feminine
+  part_of_speech: noun
   term: gwraig (gwragedd)
-  type: fem. noun / enw benywaidd
   unit: 6
 - definition: original
+  gender: null
+  part_of_speech: adjective
   term: gwreiddiol
-  type: ansoddair / adjective
   unit: 4
 - definition: to know
+  gender: null
+  part_of_speech: verb
   term: gwybod
-  type: verb / berf
   unit: 6
 - definition: holiday(s)
+  gender: feminine
+  part_of_speech: noun
   term: gwyliau
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: to watch
+  gender: null
+  part_of_speech: verb
   term: gwylio
-  type: verb / berf
   unit: 1
 - definition: white
+  gender: null
+  part_of_speech: adjective
   term: gwyn
-  type: ansoddair / adjective
   unit: 2
 - definition: windy
+  gender: null
+  part_of_speech: adjective
   term: gwyntog
-  type: ansoddair / adjective
   unit: 6
 - definition: in the evening
+  gender: null
+  part_of_speech: other
   term: "gyda\u2019r nos"
-  type: other / arall
   unit: 5
 - definition: to drive
+  gender: null
+  part_of_speech: verb
   term: gyrru
-  type: verb / berf
   unit: 1
 - definition: game(s), match(es)
+  gender: feminine
+  part_of_speech: noun
   term: "g\xEAm (gemau)"
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: husband(s)
+  gender: masculine
+  part_of_speech: noun
   term: "g\u0175r (gw\u0177r)"
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: salt
+  gender: masculine
+  part_of_speech: noun
   term: halen
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: half
+  gender: masculine
+  part_of_speech: noun
   term: hanner
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: happy
+  gender: null
+  part_of_speech: adjective
   term: hapus
-  type: ansoddair / adjective
   unit: 6
 - definition: today
+  gender: null
+  part_of_speech: other
   term: heddiw
-  type: other / arall
   unit: 1
 - definition: police
+  gender: masculine
+  part_of_speech: noun
   term: heddlu
-  type: masc. noun / enw gwrywaidd
   unit: 1
 - definition: to fly
+  gender: null
+  part_of_speech: verb
   term: hedfan
-  type: verb / berf
   unit: 4
 - definition: also
+  gender: null
+  part_of_speech: other
   term: hefyd
-  type: other / arall
   unit: 2
 - definition: to help
+  gender: null
+  part_of_speech: verb
   term: helpu
-  type: verb / berf
   unit: 4
 - definition: tonight
+  gender: null
+  part_of_speech: other
   term: heno
-  type: other / arall
   unit: 2
 - definition: hockey
+  gender: masculine
+  part_of_speech: noun
   term: hoci
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: to like
+  gender: null
+  part_of_speech: verb
   term: hoffi
-  type: verb / berf
   unit: 2
 - definition: ice cream
+  gender: masculine
+  part_of_speech: noun
   term: "hufen i\xE2"
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: bye!
+  gender: null
+  part_of_speech: other
   term: hwyl!
-  type: other / arall
   unit: 1
 - definition: nice, lovely
+  gender: null
+  part_of_speech: adjective
   term: hyfryd
-  type: ansoddair / adjective
   unit: 6
 - definition: to; for
+  gender: null
+  part_of_speech: other
   term: i
-  type: other / arall
   unit: 1
 - definition: ok, very
+  gender: null
+  part_of_speech: other
   term: iawn
-  type: other / arall
   unit: 1
 - definition: to want
+  gender: null
+  part_of_speech: verb
   term: isio / eisiau
-  type: verb / berf
   unit: 3
 - definition: to like
+  gender: null
+  part_of_speech: verb
   term: licio
-  type: verb / berf
   unit: 2
 - definition: floor
+  gender: masculine
+  part_of_speech: noun
   term: llawr
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: place(s)
+  gender: masculine
+  part_of_speech: noun
   term: lle(fydd)
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: where?
+  gender: null
+  part_of_speech: other
   term: lle?
-  type: other / arall
   unit: 1
 - definition: milk
+  gender: masculine
+  part_of_speech: noun
   term: llefrith/llaeth
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: dish(es)
+  gender: masculine
+  part_of_speech: noun
   term: llestr(i)
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: book(s)
+  gender: masculine
+  part_of_speech: noun
   term: llyfr(au)
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: library
+  gender: feminine
+  part_of_speech: noun
   term: llyfrgell(oedd)
-  type: fem. noun / enw benywaidd
   unit: 5
 - definition: lounge
+  gender: feminine
+  part_of_speech: noun
   term: lolfa
-  type: fem. noun / enw benywaidd
   unit: 5
 - definition: big
+  gender: null
+  part_of_speech: adjective
   term: mawr
-  type: ansoddair / adjective
   unit: 6
 - definition: to be able to
+  gender: null
+  part_of_speech: verb
   term: medru
-  type: verb / berf
   unit: 6
 - definition: to go
+  gender: null
+  part_of_speech: verb
   term: mynd
-  type: verb / berf
   unit: 2
 - definition: to go for a walk
+  gender: null
+  part_of_speech: other
   term: mynd am dro
-  type: other / arall
   unit: 2
 - definition: to know, to recognise
+  gender: null
+  part_of_speech: verb
   term: nabod
-  type: verb / berf
   unit: 4
 - definition: nice
+  gender: null
+  part_of_speech: adjective
   term: neis
-  type: ansoddair / adjective
   unit: 2
 - definition: last night
+  gender: null
+  part_of_speech: other
   term: neithiwr
-  type: other / arall
   unit: 5
 - definition: hall(s)
+  gender: feminine
+  part_of_speech: noun
   term: neuadd(au)
-  type: fem. noun / enw benywaidd
   unit: 6
 - definition: new
+  gender: null
+  part_of_speech: adjective
   term: newydd
-  type: ansoddair / adjective
   unit: 2
 - definition: to swim
+  gender: null
+  part_of_speech: verb
   term: nofio
-  type: verb / berf
   unit: 3
 - definition: night
+  gender: feminine
+  part_of_speech: noun
   term: nos
-  type: fem. noun / enw benywaidd
   unit: 1
 - definition: evening
+  gender: feminine
+  part_of_speech: noun
   term: noswaith
-  type: fem. noun / enw benywaidd
   unit: 1
 - definition: cold
+  gender: null
+  part_of_speech: adjective
   term: oer
-  type: ansoddair / adjective
   unit: 6
 - definition: terrible
+  gender: null
+  part_of_speech: adjective
   term: ofnadwy
-  type: ansoddair / adjective
   unit: 1
 - definition: but
+  gender: null
+  part_of_speech: other
   term: ond
-  type: other / arall
   unit: 1
 - definition: please
+  gender: null
+  part_of_speech: other
   term: "os gwelwch chi\u2019n dda"
-  type: other / arall
   unit: 3
 - definition: why?
+  gender: null
+  part_of_speech: other
   term: pam?
-  type: other / arall
   unit: 6
 - definition: when
+  gender: null
+  part_of_speech: other
   term: pan
-  type: other / arall
   unit: 4
 - definition: cuppa
+  gender: feminine
+  part_of_speech: noun
   term: paned
-  type: fem. noun / enw benywaidd
   unit: 1
 - definition: newspaper
+  gender: masculine
+  part_of_speech: noun
   term: papur newydd
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: park(s)
+  gender: masculine
+  part_of_speech: noun
   term: parc(iau)
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: everybody
+  gender: null
+  part_of_speech: other
   term: pawb
-  type: other / arall
   unit: 1
 - definition: weekend(s)
+  gender: masculine
+  part_of_speech: noun
   term: penwythnos(au)
-  type: masc. noun / enw gwrywaidd
   unit: 4
 - definition: pink
+  gender: null
+  part_of_speech: adjective
   term: pinc
-  type: ansoddair / adjective
   unit: 1
 - definition: every
+  gender: null
+  part_of_speech: other
   term: pob
-  type: other / arall
   unit: 4
 - definition: good luck
+  gender: null
+  part_of_speech: other
   term: pob lwc
-  type: other / arall
   unit: 4
 - definition: hot
+  gender: null
+  part_of_speech: adjective
   term: poeth
-  type: ansoddair / adjective
   unit: 6
 - definition: problem(s)
+  gender: feminine
+  part_of_speech: noun
   term: problem(au)
-  type: fem. noun / enw benywaidd
   unit: 1
 - definition: when?
+  gender: null
+  part_of_speech: other
   term: pryd?
-  type: other / arall
   unit: 2
 - definition: to buy
+  gender: null
+  part_of_speech: verb
   term: prynu
-  type: verb / berf
   unit: 2
 - definition: busy
+  gender: null
+  part_of_speech: adjective
   term: prysur
-  type: ansoddair / adjective
   unit: 6
 - definition: pound(s) (money)
+  gender: feminine
+  part_of_speech: noun
   term: punt (punnoedd)
-  type: fem. noun / enw benywaidd
   unit: 3
 - definition: who?
+  gender: null
+  part_of_speech: other
   term: pwy?
-  type: other / arall
   unit: 1
 - definition: important
+  gender: null
+  part_of_speech: adjective
   term: pwysig
-  type: ansoddair / adjective
   unit: 6
 - definition: fish(es)
+  gender: masculine
+  part_of_speech: noun
   term: pysgodyn (pysgod)
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: ball(s)
+  gender: feminine
+  part_of_speech: noun
   term: "p\xEAl (peli)"
-  type: fem. noun / enw benywaidd
   unit: 2
 - definition: football
+  gender: masculine
+  part_of_speech: noun
   term: "p\xEAl-droed"
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: afternoon(s)
+  gender: masculine
+  part_of_speech: noun
   term: "p\u2019nawn(iau)"
-  type: masc. noun / enw gwrywaidd
   unit: 1
 - definition: radio
+  gender: masculine
+  part_of_speech: noun
   term: radio
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: programme(s)
+  gender: feminine
+  part_of_speech: noun
   term: rhaglen(ni)
-  type: fem. noun / enw benywaidd
   unit: 1
 - definition: to run
+  gender: null
+  part_of_speech: verb
   term: rhedeg
-  type: verb / berf
   unit: 6
 - definition: number(s)
+  gender: masculine
+  part_of_speech: noun
   term: rhif(au)
-  type: masc. noun / enw gwrywaidd
   unit: 1
 - definition: something
+  gender: masculine
+  part_of_speech: noun
   term: rhywbeth
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: something else
+  gender: null
+  part_of_speech: other
   term: rhywbeth arall
-  type: other / arall
   unit: 3
 - definition: somewhere
+  gender: null
+  part_of_speech: other
   term: rhywle
-  type: other / arall
   unit: 6
 - definition: rugby
+  gender: masculine
+  part_of_speech: noun
   term: rygbi
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: now
+  gender: null
+  part_of_speech: other
   term: "r\u0175an"
-  type: other / arall
   unit: 1
 - definition: chips
+  gender: masculine
+  part_of_speech: noun
   term: sglodion
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: cinema(s)
+  gender: masculine
+  part_of_speech: noun
   term: "sinema (sinem\xE2u)"
-  type: masc. noun / enw gwrywaidd
   unit: 4
 - definition: chocolate(s)
+  gender: masculine
+  part_of_speech: noun
   term: siocled(i)
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: shop(s)
+  gender: feminine
+  part_of_speech: noun
   term: siop(au)
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: to shop
+  gender: null
+  part_of_speech: verb
   term: siopa
-  type: verb / berf
   unit: 2
 - definition: sugar
+  gender: masculine
+  part_of_speech: noun
   term: siwgr
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: sure
+  gender: null
+  part_of_speech: adjective
   term: "si\u0175r"
-  type: ansoddair / adjective
   unit: 2
 - definition: to iron
+  gender: null
+  part_of_speech: verb
   term: smwddio
-  type: verb / berf
   unit: 2
 - definition: stamp(s)
+  gender: masculine
+  part_of_speech: noun
   term: stamp(iau)
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: to stop
+  gender: null
+  part_of_speech: verb
   term: stopio
-  type: verb / berf
   unit: 1
 - definition: stormy
+  gender: null
+  part_of_speech: adjective
   term: stormus
-  type: ansoddair / adjective
   unit: 6
 - definition: how?
+  gender: null
+  part_of_speech: other
   term: sut?
-  type: other / arall
   unit: 1
 - definition: noisy
+  gender: null
+  part_of_speech: adjective
   term: swnllyd
-  type: ansoddair / adjective
   unit: 6
 - definition: supper
+  gender: masculine
+  part_of_speech: noun
   term: swper
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: job(s)
+  gender: feminine
+  part_of_speech: noun
   term: swydd(i)
-  type: fem. noun / enw benywaidd
   unit: 3
 - definition: a post office
+  gender: feminine
+  part_of_speech: noun
   term: swyddfa bost
-  type: fem. noun / enw benywaidd
   unit: 5
 - definition: dry
+  gender: null
+  part_of_speech: adjective
   term: sych
-  type: ansoddair / adjective
   unit: 6
 - definition: pub(s)
+  gender: feminine
+  part_of_speech: noun
   term: tafarn(au)
-  type: fem. noun / enw benywaidd
   unit: 5
 - definition: tea
+  gender: masculine
+  part_of_speech: noun
   term: te
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: television
+  gender: masculine
+  part_of_speech: noun
   term: teledu
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: tennis
+  gender: masculine
+  part_of_speech: noun
   term: tennis
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: family (families)
+  gender: masculine
+  part_of_speech: noun
   term: teulu(oedd)
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: theatre(s)
+  gender: feminine
+  part_of_speech: noun
   term: theatr(au)
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: you
+  gender: null
+  part_of_speech: other
   term: ti
-  type: other / arall
   unit: 1
 - definition: tutor(s)
+  gender: masculine
+  part_of_speech: noun
   term: tiwtor(iaid)
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: to break down
+  gender: null
+  part_of_speech: verb
   term: torri lawr
-  type: verb / berf
   unit: 6
 - definition: toast
+  gender: masculine
+  part_of_speech: noun
   term: tost
-  type: masc. noun / enw gwrywaidd
   unit: 2
 - definition: beach(es)
+  gender: masculine
+  part_of_speech: noun
   term: traeth(au)
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: town(s)
+  gender: feminine
+  part_of_speech: noun
   term: tref(i)
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: train(s)
+  gender: masculine
+  part_of_speech: noun
   term: "tr\xEAn (trenau)"
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: about
+  gender: null
+  part_of_speech: other
   term: tua
-  type: other / arall
   unit: 6
 - definition: page(s)
+  gender: feminine
+  part_of_speech: noun
   term: tudalen(nau)
-  type: fem. noun / enw benywaidd
   unit: 4
 - definition: weather
+  gender: masculine
+  part_of_speech: noun
   term: tywydd
-  type: masc. noun / enw gwrywaidd
   unit: 6
 - definition: team(s)
+  gender: masculine
+  part_of_speech: noun
   term: "t\xEEm (timau)"
-  type: masc. noun / enw gwrywaidd
   unit: 4
 - definition: house(s)
+  gender: masculine
+  part_of_speech: noun
   term: "t\u0177 (tai)"
-  type: masc. noun / enw gwrywaidd
   unit: 3
 - definition: unit(s)
+  gender: feminine
+  part_of_speech: noun
   term: uned(au)
-  type: fem. noun / enw benywaidd
   unit: 1
 - definition: tired
+  gender: null
+  part_of_speech: adjective
   term: wedi blino
-  type: ansoddair / adjective
   unit: 1
 - definition: afterwards
+  gender: null
+  part_of_speech: other
   term: wedyn
-  type: other / arall
   unit: 5
 - definition: sometimes
+  gender: null
+  part_of_speech: other
   term: weithiau
-  type: other / arall
   unit: 4
 - definition: indeed
+  gender: null
+  part_of_speech: other
   term: wir
-  type: other / arall
   unit: 4
 - definition: of course
+  gender: null
+  part_of_speech: other
   term: wrth gwrs
-  type: other / arall
   unit: 2
 - definition: week(s)
+  gender: feminine
+  part_of_speech: noun
   term: wythnos(au)
-  type: fem. noun / enw benywaidd
   unit: 2
 - definition: yuck
+  gender: null
+  part_of_speech: other
   term: ych a fi
-  type: other / arall
   unit: 2
 - definition: to drink
+  gender: null
+  part_of_speech: verb
   term: yfed
-  type: verb / berf
   unit: 2
 - definition: tomorrow
+  gender: null
+  part_of_speech: other
   term: yfory
-  type: other / arall
   unit: 2
 - definition: here
+  gender: null
+  part_of_speech: other
   term: yma
-  type: other / arall
   unit: 1
 - definition: to retire
+  gender: null
+  part_of_speech: verb
   term: ymddeol
-  type: verb / berf
   unit: 2
 - definition: to relax
+  gender: null
+  part_of_speech: verb
   term: ymlacio
-  type: verb / berf
   unit: 5
 - definition: to wash (oneself)
+  gender: null
+  part_of_speech: verb
   term: ymolchi
-  type: verb / berf
   unit: 5
 - definition: in
+  gender: null
+  part_of_speech: other
   term: yn
-  type: other / arall
   unit: 1
 - definition: there
+  gender: null
+  part_of_speech: other
   term: yno
-  type: other / arall
   unit: 4
 - definition: hospital(s)
+  gender: masculine
+  part_of_speech: noun
   term: ysbyty (ysbytai)
-  type: masc. noun / enw gwrywaidd
   unit: 5
 - definition: school(s)
+  gender: feminine
+  part_of_speech: noun
   term: ysgol(ion)
-  type: fem. noun / enw benywaidd
   unit: 5
 - definition: or; then
+  gender: null
+  part_of_speech: other
   term: "\u2018ta"
-  type: other / arall
   unit: 4

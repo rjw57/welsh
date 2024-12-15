@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
+from typing import Optional
 import re
 import enum
 import yaml
 
 
-class WordType(enum.StrEnum):
-    MASC_NOUN = "masc. noun / enw gwrywaidd"
-    FEM_NOUN = "fem. noun / enw benywaidd"
-    VERB = "verb / berf"
-    ADJECTIVE = "ansoddair / adjective"
-    OTHER = "other / arall"
+class PartOfSpeech(enum.StrEnum):
+    NOUN = "noun"
+    VERB = "verb"
+    ADJECTIVE = "adjective"
+    OTHER = "other"
+
+
+class Gender(enum.StrEnum):
+    MASCULINE = "masculine"
+    FEMININE = "feminine"
 
 
 def lines():
@@ -20,7 +25,8 @@ def lines():
 
 def main():
     uned = 1
-    word_type = WordType.MASC_NOUN
+    part_of_speech = PartOfSpeech.NOUN
+    gender: Optional[Gender] = None
     term, defn = "", ""
     words = []
     for line_idx, line in enumerate(lines()):
@@ -28,19 +34,24 @@ def main():
             continue
 
         if line == "EG":
-            word_type = WordType.MASC_NOUN
+            part_of_speech = PartOfSpeech.NOUN
+            gender = Gender.MASCULINE
             continue
         elif line == "EB":
-            word_type = WordType.FEM_NOUN
+            part_of_speech = PartOfSpeech.NOUN
+            gender = Gender.FEMININE
             continue
         elif line == "B":
-            word_type = WordType.VERB
+            part_of_speech = PartOfSpeech.VERB
+            gender = None
             continue
         elif line == "AN":
-            word_type = WordType.ADJECTIVE
+            part_of_speech = PartOfSpeech.ADJECTIVE
+            gender = None
             continue
         elif line == "AR":
-            word_type = WordType.OTHER
+            part_of_speech = PartOfSpeech.OTHER
+            gender = None
             continue
         elif m := re.match(r"^U(?P<uned>[0-9]+)$", line):
             uned = int(m.groupdict()["uned"])
@@ -61,7 +72,8 @@ def main():
                 "term": term,
                 "definition": defn,
                 "unit": uned,
-                "type": word_type.value,
+                "part_of_speech": part_of_speech.value,
+                "gender": gender if gender is None else gender.value,
             }
         )
 
