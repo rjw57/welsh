@@ -9,6 +9,21 @@ def main():
 
     all_units = {w["unit"] for w in words}
 
+    with open(f"words.csv", "w") as f:
+        writer = csv.writer(f)
+        writer.writerow(
+            ["Term", "Definition", "Part of Speech", "Gender", "Unit"])
+        for word in words:
+            writer.writerow(
+                [
+                    word["term"],
+                    word["definition"],
+                    word["part_of_speech"],
+                    word.get("gender"),
+                    word["unit"],
+                ]
+            )
+
     for unit in all_units:
         with open(f"unit-{unit}.csv", "w") as f:
             writer = csv.writer(f)
