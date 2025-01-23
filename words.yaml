@@ -53,11 +53,31 @@
   part_of_speech: other
   term: a deud y gwir
   unit: 4
+- definition: actor(s)
+  gender: masculine
+  part_of_speech: noun
+  term: actor(ion)
+  unit: 8
+- definition: actor(s)
+  gender: feminine
+  part_of_speech: noun
+  term: actores(au)
+  unit: 8
+- definition: to revise, to review
+  gender: null
+  part_of_speech: verb
+  term: adolygu
+  unit: 8
 - definition: home
   gender: null
   part_of_speech: other
   term: adre
   unit: 4
+- definition: out
+  gender: null
+  part_of_speech: other
+  term: allan
+  unit: 8
 - definition: museum(s)
   gender: feminine
   part_of_speech: noun
@@ -78,6 +98,11 @@
   part_of_speech: other
   term: ar
   unit: 2
+- definition: available
+  gender: null
+  part_of_speech: other
+  term: ar gael
+  unit: 8
 - definition: other, else
   gender: null
   part_of_speech: other
@@ -88,6 +113,21 @@
   part_of_speech: verb
   term: aros
   unit: 4
+- definition: teacher(s)
+  gender: feminine
+  part_of_speech: noun
+  term: athrawes(au)
+  unit: 8
+- definition: teacher(s)
+  gender: masculine
+  part_of_speech: noun
+  term: athro (athrawon)
+  unit: 8
+- definition: hour(s)
+  gender: feminine
+  part_of_speech: noun
+  term: awr (oriau)
+  unit: 7
 - definition: plane(s)
   gender: feminine
   part_of_speech: noun
@@ -123,6 +163,16 @@
   part_of_speech: adjective
   term: bendigedig
   unit: 2
+- definition: to borrow, to lend
+  gender: null
+  part_of_speech: verb
+  term: benthyg
+  unit: 8
+- definition: angry
+  gender: null
+  part_of_speech: adjective
+  term: blin
+  unit: 7
 - definition: flower(s)
   gender: masculine
   part_of_speech: noun
@@ -188,6 +238,11 @@
   part_of_speech: noun
   term: cacen(nau)
   unit: 2
+- definition: to keep, to reserve
+  gender: null
+  part_of_speech: verb
+  term: cadw
+  unit: 8
 - definition: to have
   gender: null
   part_of_speech: verb
@@ -198,6 +253,11 @@
   part_of_speech: noun
   term: caffi(s)
   unit: 3
+- definition: camera(s)
+  gender: masculine
+  part_of_speech: noun
+  term: "camera (camer\xE2u)"
+  unit: 8
 - definition: to sing
   gender: null
   part_of_speech: verb
@@ -223,6 +283,11 @@
   part_of_speech: noun
   term: caws
   unit: 2
+- definition: penny (pennies)
+  gender: feminine
+  part_of_speech: noun
+  term: ceiniog(au)
+  unit: 7
 - definition: to walk
   gender: null
   part_of_speech: verb
@@ -263,11 +328,21 @@
   part_of_speech: verb
   term: clywed
   unit: 3
+- definition: nice, friendly
+  gender: null
+  part_of_speech: adjective
+  term: "cl\xEAn"
+  unit: 7
 - definition: red
   gender: null
   part_of_speech: adjective
   term: coch
   unit: 2
+- definition: to get up, to lift
+  gender: null
+  part_of_speech: verb
+  term: codi
+  unit: 7
 - definition: coffee(s)
   gender: masculine
   part_of_speech: noun
@@ -283,6 +358,11 @@
   part_of_speech: verb
   term: coginio
   unit: 5
+- definition: chef(s), cook(s)
+  gender: masculine
+  part_of_speech: noun
+  term: cogydd(ion)
+  unit: 8
 - definition: cricket
   gender: masculine
   part_of_speech: noun
@@ -308,11 +388,21 @@
   part_of_speech: adjective
   term: cymylog
   unit: 6
+- definition: concert(s)
+  gender: masculine
+  part_of_speech: noun
+  term: cyngerdd (cyngherddau)
+  unit: 8
 - definition: warm
   gender: null
   part_of_speech: adjective
   term: cynnes
   unit: 6
+- definition: first
+  gender: null
+  part_of_speech: adjective
+  term: cynta
+  unit: 7
 - definition: song(s)
   gender: feminine
   part_of_speech: noun
@@ -348,6 +438,11 @@
   part_of_speech: verb
   term: dechrau
   unit: 6
+- definition: receptionist
+  gender: masculine
+  part_of_speech: noun
+  term: derbynnydd
+  unit: 8
 - definition: to say, to tell
   gender: null
   part_of_speech: verb
@@ -388,11 +483,21 @@
   part_of_speech: noun
   term: dosbarth(iadau)
   unit: 1
+- definition: drama, play(s)
+  gender: feminine
+  part_of_speech: noun
+  term: "drama (dram\xE2u)"
+  unit: 8
 - definition: over
   gender: null
   part_of_speech: other
   term: dros
   unit: 4
+- definition: expensive
+  gender: null
+  part_of_speech: adjective
+  term: drud
+  unit: 7
 - definition: day(s)
   gender: masculine
   part_of_speech: noun
@@ -458,11 +563,51 @@
   part_of_speech: noun
   term: enw(au)
   unit: 1
+- definition: famous
+  gender: null
+  part_of_speech: adjective
+  term: enwog
+  unit: 7
 - definition: again
   gender: null
   part_of_speech: other
   term: eto
   unit: 1
+- definition: how much? how many?
+  gender: null
+  part_of_speech: other
+  term: faint?
+  unit: 7
+- definition: fashion
+  gender: masculine
+  part_of_speech: noun
+  term: ffasiwn
+  unit: 7
+- definition: factory (factories)
+  gender: feminine
+  part_of_speech: noun
+  term: "ffatri (ffatr\xEFoedd)"
+  unit: 8
+- definition: to find
+  gender: null
+  part_of_speech: verb
+  term: ffeindio
+  unit: 7
+- definition: farmer(s)
+  gender: masculine
+  part_of_speech: noun
+  term: ffermwr (ffermwyr)
+  unit: 7
+- definition: flat(s)
+  gender: feminine
+  part_of_speech: noun
+  term: fflat(iau)
+  unit: 8
+- definition: to phone
+  gender: null
+  part_of_speech: verb
+  term: ffonio
+  unit: 8
 - definition: phone(s)
   gender: masculine
   part_of_speech: noun
@@ -498,6 +643,11 @@
   part_of_speech: noun
   term: glaw
   unit: 6
+- definition: to ask
+  gender: null
+  part_of_speech: verb
+  term: gofyn
+  unit: 8
 - definition: to wash
   gender: null
   part_of_speech: verb
@@ -518,6 +668,11 @@
   part_of_speech: verb
   term: gorfod
   unit: 6
+- definition: station(s)
+  gender: feminine
+  part_of_speech: noun
+  term: gorsaf(oedd)
+  unit: 8
 - definition: work
   gender: masculine
   part_of_speech: noun
@@ -538,11 +693,21 @@
   part_of_speech: noun
   term: gwely(au)
   unit: 4
+- definition: hotel(s)
+  gender: masculine
+  part_of_speech: noun
+  term: gwesty (gwestai)
+  unit: 8
 - definition: wine
   gender: masculine
   part_of_speech: noun
   term: gwin
   unit: 2
+- definition: silly
+  gender: null
+  part_of_speech: adjective
+  term: gwirion
+  unit: 7
 - definition: country (countries)
   gender: feminine
   part_of_speech: noun
@@ -653,6 +818,11 @@
   part_of_speech: verb
   term: helpu
   unit: 4
+- definition: old
+  gender: null
+  part_of_speech: adjective
+  term: hen
+  unit: 7
 - definition: tonight
   gender: null
   part_of_speech: other
@@ -668,6 +838,16 @@
   part_of_speech: verb
   term: hoffi
   unit: 2
+- definition: girl(s)
+  gender: feminine
+  part_of_speech: noun
+  term: hogan (genod)
+  unit: 8
+- definition: boy(s)
+  gender: masculine
+  part_of_speech: noun
+  term: hogyn (hogiau)
+  unit: 8
 - definition: ice cream
   gender: masculine
   part_of_speech: noun
@@ -678,6 +858,11 @@
   part_of_speech: other
   term: hwyl!
   unit: 1
+- definition: late
+  gender: null
+  part_of_speech: adjective
+  term: hwyr
+  unit: 7
 - definition: nice, lovely
   gender: null
   part_of_speech: adjective
@@ -743,16 +928,46 @@
   part_of_speech: noun
   term: lolfa
   unit: 5
+- definition: son(s)
+  gender: masculine
+  part_of_speech: noun
+  term: mab (meibion)
+  unit: 7
+- definition: car park
+  gender: masculine
+  part_of_speech: noun
+  term: maes parcio
+  unit: 8
 - definition: big
   gender: null
   part_of_speech: adjective
   term: mawr
   unit: 6
+- definition: doctor(s)
+  gender: masculine
+  part_of_speech: noun
+  term: meddyg(on)
+  unit: 8
 - definition: to be able to
   gender: null
   part_of_speech: verb
   term: medru
   unit: 6
+- definition: girl(s), daughter(s)
+  gender: feminine
+  part_of_speech: noun
+  term: merch(ed)
+  unit: 7
+- definition: in a
+  gender: null
+  part_of_speech: other
+  term: mewn
+  unit: 8
+- definition: minute(s)
+  gender: masculine
+  part_of_speech: noun
+  term: munud(au)
+  unit: 8
 - definition: to go
   gender: null
   part_of_speech: verb
@@ -778,6 +993,11 @@
   part_of_speech: other
   term: neithiwr
   unit: 5
+- definition: next
+  gender: null
+  part_of_speech: adjective
+  term: nesa
+  unit: 7
 - definition: hall(s)
   gender: feminine
   part_of_speech: noun
@@ -803,6 +1023,16 @@
   part_of_speech: noun
   term: noswaith
   unit: 1
+- definition: nurse(s)
+  gender: feminine
+  part_of_speech: noun
+  term: nyrs(ys)
+  unit: 8
+- definition: age (of person)
+  gender: masculine
+  part_of_speech: noun
+  term: oed
+  unit: 7
 - definition: cold
   gender: null
   part_of_speech: adjective
@@ -823,6 +1053,11 @@
   part_of_speech: other
   term: "os gwelwch chi\u2019n dda"
   unit: 3
+- definition: "o\u2019clock"
+  gender: null
+  part_of_speech: other
+  term: "o\u2019r gloch"
+  unit: 7
 - definition: why?
   gender: null
   part_of_speech: other
@@ -853,6 +1088,16 @@
   part_of_speech: other
   term: pawb
   unit: 1
+- definition: birthday(s)
+  gender: masculine
+  part_of_speech: noun
+  term: pen-blwydd (penblwyddi)
+  unit: 7
+- definition: head (person)
+  gender: masculine
+  part_of_speech: noun
+  term: pennaeth
+  unit: 8
 - definition: weekend(s)
   gender: masculine
   part_of_speech: noun
@@ -863,6 +1108,11 @@
   part_of_speech: adjective
   term: pinc
   unit: 1
+- definition: policeman (policemen)
+  gender: masculine
+  part_of_speech: noun
+  term: plismon (plismyn)
+  unit: 8
 - definition: every
   gender: null
   part_of_speech: other
@@ -873,11 +1123,26 @@
   part_of_speech: other
   term: pob lwc
   unit: 4
+- definition: people
+  gender: feminine
+  part_of_speech: noun
+  term: pobol
+  unit: 8
 - definition: hot
   gender: null
   part_of_speech: adjective
   term: poeth
   unit: 6
+- definition: (postmen) postman
+  gender: masculine
+  part_of_speech: noun
+  term: postmon (postmyn)
+  unit: 7
+- definition: money; brass
+  gender: masculine
+  part_of_speech: noun
+  term: pres
+  unit: 7
 - definition: problem(s)
   gender: feminine
   part_of_speech: noun
@@ -938,6 +1203,11 @@
   part_of_speech: noun
   term: radio
   unit: 2
+- definition: cheap
+  gender: null
+  part_of_speech: adjective
+  term: rhad
+  unit: 7
 - definition: programme(s)
   gender: feminine
   part_of_speech: noun
@@ -948,6 +1218,21 @@
   part_of_speech: verb
   term: rhedeg
   unit: 6
+- definition: manager(s)
+  gender: masculine
+  part_of_speech: noun
+  term: rheolwr (rheolwyr)
+  unit: 8
+- definition: mananger
+  gender: feminine
+  part_of_speech: noun
+  term: rheolwraig
+  unit: 8
+- definition: ice
+  gender: masculine
+  part_of_speech: noun
+  term: rhew
+  unit: 7
 - definition: number(s)
   gender: masculine
   part_of_speech: noun
@@ -968,6 +1253,11 @@
   part_of_speech: other
   term: rhywle
   unit: 6
+- definition: someone
+  gender: masculine
+  part_of_speech: noun
+  term: rhywun
+  unit: 8
 - definition: rugby
   gender: masculine
   part_of_speech: noun
@@ -983,6 +1273,11 @@
   part_of_speech: noun
   term: sglodion
   unit: 3
+- definition: to talk
+  gender: null
+  part_of_speech: verb
+  term: siarad
+  unit: 8
 - definition: cinema(s)
   gender: masculine
   part_of_speech: noun
@@ -1033,6 +1328,11 @@
   part_of_speech: adjective
   term: stormus
   unit: 6
+- definition: street(s)
+  gender: feminine
+  part_of_speech: noun
+  term: stryd(oedd)
+  unit: 7
 - definition: how?
   gender: null
   part_of_speech: other
@@ -1068,6 +1368,11 @@
   part_of_speech: noun
   term: tafarn(au)
   unit: 5
+- definition: to pay
+  gender: null
+  part_of_speech: verb
+  term: talu
+  unit: 8
 - definition: tea
   gender: masculine
   part_of_speech: noun
@@ -1103,6 +1408,11 @@
   part_of_speech: noun
   term: tiwtor(iaid)
   unit: 2
+- definition: ticket(s)
+  gender: masculine
+  part_of_speech: noun
+  term: tocyn(nau)
+  unit: 8
 - definition: to break down
   gender: null
   part_of_speech: verb
@@ -1123,6 +1433,11 @@
   part_of_speech: noun
   term: tref(i)
   unit: 4
+- definition: sad
+  gender: null
+  part_of_speech: adjective
+  term: trist
+  unit: 7
 - definition: train(s)
   gender: masculine
   part_of_speech: noun
@@ -1153,6 +1468,11 @@
   part_of_speech: noun
   term: "t\u0177 (tai)"
   unit: 3
+- definition: restaurant(s)
+  gender: masculine
+  part_of_speech: noun
+  term: "t\u0177 bwyta (tai bwyta)"
+  unit: 7
 - definition: unit(s)
   gender: feminine
   part_of_speech: noun
